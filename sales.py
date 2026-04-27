@@ -90,6 +90,10 @@ section[data-testid="stSidebar"] > div:first-child {
     width: 100% !important;
     box-sizing: border-box !important;
 }
+            
+.st-es {
+    padding-right: 0 !important;
+}
 
 /* All text inside sidebar */
 section[data-testid="stSidebar"] * { color: #8899b4 !important; }
