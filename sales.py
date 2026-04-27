@@ -324,7 +324,7 @@ label[data-testid="stWidgetLabel"] {
 /* Selectbox selected value text */
 [data-testid="stSelectbox"] [data-baseweb="select"] span,
 [data-testid="stSelectbox"] [data-baseweb="select"] div {
-    color: #e2e8f0 !important;
+    # color: #e2e8f0 !important;
 }
 
 /* Number input +/- buttons */
