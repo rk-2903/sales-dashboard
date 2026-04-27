@@ -179,7 +179,7 @@ section[data-testid="stSidebar"] [data-baseweb="select"] > div > div:first-child
     min-width: 0 !important;
     margin-left: 0 !important;
     margin-right: 0 !important;
-    padding-left: 8px !important;
+    padding-left: 0 !important;
     padding-top: 2px !important;
 }
 /* Every direct child span/div inside that row (the tag wrappers) */
@@ -199,7 +199,7 @@ section[data-testid="stSidebar"] [data-baseweb="select"] > div {
     box-sizing: border-box !important;
 }
 section[data-testid="stSidebar"] input {
-    background: #0f1628 !important;
+    # background: #0f1628 !important;
     border-color: #1e2d4a !important;
     color: #e2e8f0 !important;
 }
