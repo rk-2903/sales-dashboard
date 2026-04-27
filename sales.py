@@ -35,6 +35,11 @@ footer    { visibility: hidden; height: 0; }
     background: #060a18 !important;
     border-bottom: 1px solid #1a2236 !important;
 }
+
+.st-emotion-cache-5r6ut5 {
+    color: white !important;
+}
+            
 /* Force all header elements visible */
 [data-testid="stHeader"] * {
     visibility: visible !important;
