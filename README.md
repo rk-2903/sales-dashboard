@@ -2,6 +2,14 @@
 
 A Streamlit dashboard for exploring sales performance by channel, SKU, and time period, with built-in exports and a rule-based Q&A assistant.
 
+## Screenshots
+
+![alt text](image.png)
+
+
+![alt text](image-1.png)
+
+
 ## Features
 
 - Interactive navigation across 9 views:
@@ -98,12 +106,3 @@ pd.read_excel("sample_sales_data.xlsx", engine="openpyxl")
 
 - The dashboard is optimized for desktop and includes responsive styles for mobile/tablet.
 - The "Ask Questions" page is deterministic/rule-based and uses your filtered dataset in memory.
-
-
-## Images
-
-![alt text](image.png)
-
-
-
-![alt text](image-1.png)
